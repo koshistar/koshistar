@@ -1,7 +1,7 @@
 ## Hi there 👋
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> <em>Ciallo～(∠・ω< )⌒★</em>
 
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> <em>Ciallo～(∠・ω< )⌒★</em>
+<img align='right' src="https://s2.loli.net/2025/01/10/EVWxpvYIseLuPln.gif" width="230" alt="my">
 <p align="center" >
   <samp>
     <em>コシ</em>です. I am a high school student who is 16 years old forever... 
@@ -11,6 +11,8 @@
           <br/> 我从来没有觉得做游戏开心过
             <br/> 来到厦门大学，我要证明，我没有错!
               <br/> 对生命充满绝望，究竟什么样的生活值得我活着.
+                <br/> 什么也无法舍弃的人，什么也做不到.
+                  <br/> 不是很精彩呢，但我想继续听下去.
   </samp>
   <br/>
   <br/>
